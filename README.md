@@ -1,5 +1,5 @@
 // Info
-* Self-Bot Remastered by RisinPlayZ
+* Self-Bot Remastered by Teju 
 * You guys are always amazing keep rocking, subscribe to RisingRival YT
 
 // Notice 
@@ -12,4 +12,4 @@
 * Encountering errors? Dm risinplayz or his alts 
 
 // Discord
-[Click here for my discord support server](invite.gg/risingrival)
+[Click here for my discord support server](invite.gg/eaop)
